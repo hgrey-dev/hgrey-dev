@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hgrey-dev
-- 👀 I’m interested in Web developement, design, blockchain and machine learning
+- 👋 Hi, I’m Hayden
+- 👀 I’m interested in Web developement, design, blockchain and AI
 - 🌱 I’m currently learning C# and JavaScript
 - 💞️ I’m looking to collaborate on anything really!
 - 📫 How to reach me... haydengrey@protonmail.com
